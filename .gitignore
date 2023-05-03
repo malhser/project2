@@ -1,0 +1,7 @@
+dea/
+.DS_Store
+.ftpconfig
+*.swp
+/tests/unit/coverage/*
+dist
+:
